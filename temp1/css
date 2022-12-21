@@ -1,0 +1,29 @@
+*{
+align-items: center;
+
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+
+.q{
+
+    width: max-content;
+    border: 15px solid black;
+    padding: 60px;
+}
+img{
+    width: 400px;
+}
+
+body{
+
+    margin: 80px;
+
+    border-radius: 28px;
+background-color:beige;
+
+
+
+} 
